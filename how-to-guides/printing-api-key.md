@@ -4,7 +4,7 @@ description: How to setup your API key
 
 # Printing - API Key
 
-## 1. Login to your CloudWaitress account at [admin.cloudwaitress.com](https://admin.cloudwaitress.com/login?redirect=%2F) and go to Settings&gt;System&gt;Receipt Printing&gt;Create Printer.
+## 1. Login to your Grubba account at admin.grubba.co.uk and go to Settings&gt;System&gt;Receipt Printing&gt;Create Printer.
 
 ![](../.gitbook/assets/1-create-printer.png)
 
